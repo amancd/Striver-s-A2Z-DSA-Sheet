@@ -2,6 +2,7 @@
 # N = 3, k = 5, array[] = {2, 3, 5}
 # 2
 
+
 def fn(arr, k):
     count = 0
     for i in range(len(arr)):
