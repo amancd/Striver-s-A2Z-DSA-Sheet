@@ -23,4 +23,4 @@ while (arm!=0):
 if temp == num:
     print("Armstrong number")
 else:
-    print("Not an armstrong")
+    print("Not an armstrong number")
